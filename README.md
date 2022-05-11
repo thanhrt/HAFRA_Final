@@ -7,6 +7,7 @@ This GitHub contains the two main python files of our application. The vision fi
 "Movement.py" contains the functionality for moving to start, pickup, and dropoff state. Vacuums are turned off and on at specific points of the movement as well. The pickup state is dependent on the coordinates received from vision.py.
 
 Further research is required on the following:
--  Universal Robot ROS Drivers GitHub
+-  Universal Robot ROS Drivers GitHub (https://github.com/UniversalRobots/Universal_Robots_ROS_Driver)
 -  rospy communication (nodes, subscribers, listeners, talkers, etc.)
--  ArUco GitHub
+-  ArUco GitHub (https://github.com/GSNCodes/ArUCo-Markers-Pose-Estimation-Generation-Python) (https://stackoverflow.com/questions/64700551/rgb-image-captured-by-intel-realsense-camera-is-dark-using-python-code)
+-  Setting up local network with the UR5 Touch Pendant
