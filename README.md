@@ -11,3 +11,4 @@ Further research is required on the following:
 -  rospy communication (nodes, subscribers, listeners, talkers, etc.)
 -  ArUco GitHub (https://github.com/GSNCodes/ArUCo-Markers-Pose-Estimation-Generation-Python) (https://stackoverflow.com/questions/64700551/rgb-image-captured-by-intel-realsense-camera-is-dark-using-python-code)
 -  Setting up local network with the UR5 Touch Pendant
+-  librealsense (https://github.com/IntelRealSense/librealsense/blob/master/doc/installation.md) (https://www.mouser.com/applications/getting-started-with-realsense-d455/)
